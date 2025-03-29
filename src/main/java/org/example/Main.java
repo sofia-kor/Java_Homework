@@ -24,6 +24,7 @@ public class Main {
         System.out.println(findMin(integers));
         System.out.println(reverseList(integers));
         divideList(integers);
+        System.out.println("Changes from Git");
 
 
     }
